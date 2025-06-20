@@ -12,4 +12,8 @@ try:
         print(f"The number {user_input} is not a decimal")
 
 except ValueError:
+<<<<<<< HEAD
     print("That's not a valid number.")
+=======
+    print("That's not a valid number.")
+>>>>>>> 1b72b64 (now)

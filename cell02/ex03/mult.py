@@ -10,4 +10,8 @@ elif result < 0:
 else:
     print("The result is zero.")
 
+<<<<<<< HEAD
 print(f"The result of multiplying {num1} and {num2} is: {result}")
+=======
+print(f"The result of multiplying {num1} and {num2} is: {result}")
+>>>>>>> 1b72b64 (now)

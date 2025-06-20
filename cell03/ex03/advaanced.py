@@ -12,4 +12,8 @@ def print_multiplicaion_tables():
 
     print("")
 
+<<<<<<< HEAD
 print_multiplicaion_tables()
+=======
+print_multiplicaion_tables()
+>>>>>>> 1b72b64 (now)

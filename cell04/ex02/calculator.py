@@ -13,4 +13,8 @@ else:
 print(f"{num1} + {num2} = {addition}")
 print(f"{num1} - {num2} = {subtration}")
 print(f"{num1} * {num2} = {multiplication}")
+<<<<<<< HEAD
 print(f"{num1} / {num2} = {division}")
+=======
+print(f"{num1} / {num2} = {division}")
+>>>>>>> 1b72b64 (now)
